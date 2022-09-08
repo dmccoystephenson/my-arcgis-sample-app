@@ -15,7 +15,7 @@ export const view = new MapView({
 });
 
 export const search = new Search({ view });
-view.ui.add(search, "top-right");
+view.ui.add(search, "bottom-left");
 
 export const initialize = (container) => {
   view.container = container;
