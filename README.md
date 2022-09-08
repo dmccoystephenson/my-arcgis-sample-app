@@ -10,5 +10,8 @@ This is a sample application of using the [ArcGIS API for JavaScript](https://de
 
 `npm start`
 
-### Fork
+## Fork
 This fork is for experimentation purposes.
+
+### Map Source
+https://developers.arcgis.com/javascript/latest/sample-code/webmap-basic/
