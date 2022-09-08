@@ -10,3 +10,5 @@ This is a sample application of using the [ArcGIS API for JavaScript](https://de
 
 `npm start`
 
+### Fork
+This fork is for experimentation purposes.
